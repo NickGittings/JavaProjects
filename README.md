@@ -1,2 +1,2 @@
 # JavaProjects
-Projects done in Java
+Projects done in Java at school.
